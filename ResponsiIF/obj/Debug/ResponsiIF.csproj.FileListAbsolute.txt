@@ -1,0 +1,7 @@
+E:\Responsi\ResponsiIF\ResponsiIF\obj\Debug\ResponsiIF.csprojAssemblyReference.cache
+E:\Responsi\ResponsiIF\ResponsiIF\obj\Debug\ResponsiIF.csproj.CoreCompileInputs.cache
+E:\Responsi\ResponsiIF\ResponsiIF\bin\Debug\ResponsiIF.exe.config
+E:\Responsi\ResponsiIF\ResponsiIF\bin\Debug\ResponsiIF.exe
+E:\Responsi\ResponsiIF\ResponsiIF\bin\Debug\ResponsiIF.pdb
+E:\Responsi\ResponsiIF\ResponsiIF\obj\Debug\ResponsiIF.exe
+E:\Responsi\ResponsiIF\ResponsiIF\obj\Debug\ResponsiIF.pdb
